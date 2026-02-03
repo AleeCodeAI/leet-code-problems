@@ -20,9 +20,9 @@ leetcode-solutions/
 
 ## Progress
 
-- **Easy:** 1 solved
+- **Easy:** 4 solved
 - **Medium:** 0 solved
-- **Hard:** 0 solved
+- **Hard:** 1 solved
 
 ## Languages Used
 
